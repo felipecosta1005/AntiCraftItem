@@ -1,0 +1,13 @@
+#|
+#| default config:
+#|    bypass all "anticraftitem.bypass"
+#|    bypass one item "anticraftitem.ITEM"
+#|
+bypass-permission: "anticraftitem"
+no-permission-message:
+  - '&cU not have permission!.'
+
+#| blocked-items list
+blocked-items:
+  #| "ITEM"
+  - "WOOD_DOOR"

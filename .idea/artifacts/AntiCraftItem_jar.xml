@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntiCraftItem:jar">
+    <output-path>$PROJECT_DIR$/../../DREAM MC/plugins</output-path>
+    <root id="archive" name="AntiCraftItem.jar">
+      <element id="module-output" name="AntiCraftItem" />
+    </root>
+  </artifact>
+</component>
