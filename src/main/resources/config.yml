@@ -4,7 +4,7 @@
 #|
 bypass-permission: "anticraftitem"
 no-permission-message:
-  - '&cU not have permission!.'
+  - '&cYou do not have permission..'
 
 #| blocked-items list
 blocked-items:
